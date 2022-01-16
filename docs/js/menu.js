@@ -45,4 +45,4 @@ ReactDOM.render(
         <div className="ghost_right"></div>
     </div>,
     document.querySelector("menubar_react")
-)
+);
